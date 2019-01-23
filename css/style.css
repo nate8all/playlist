@@ -1,5 +1,11 @@
 h1 {
     text-align: center;
+    color: orange;
+    font-weight: bold;
+}
+
+body {
+    background-color: #1DA3B6;
 }
 
 #cart {
@@ -63,4 +69,5 @@ input {
 button {
     font-size: 14px;
     padding: 5px 10px;
+    color: orange;
 }

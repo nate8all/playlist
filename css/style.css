@@ -1,11 +1,11 @@
 h1 {
     text-align: center;
-    color: orange;
+    color: #1DA3B6;
     font-weight: bold;
 }
 
 body {
-    background-color: #1DA3B6;
+    background-color: #FFC300 ;
 }
 
 #cart {
@@ -23,7 +23,7 @@ body {
 #images img {
     display: block;
     height: 100px;
-    width: auto;
+    width: 100px;
     margin: 20px;
 }
 
@@ -56,7 +56,7 @@ body {
 }
 
 #form {
-    width: 75%;
+    width: 90%;
     margin: 0 auto 20px auto;
     font-size: 18px;
 }
@@ -69,5 +69,5 @@ input {
 button {
     font-size: 14px;
     padding: 5px 10px;
-    color: orange;
+    color: #1DA3B6;
 }
